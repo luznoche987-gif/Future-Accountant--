@@ -1,0 +1,27 @@
+{
+  "name": "محاسب المستقبل",
+  "short_name": "محاسب المستقبل",
+  "description": "نظام محاسبي متكامل لإدارة العملاء والموردين والديون والموظفين",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4361ee",
+  "background_color": "#f1f5f9",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "Future Accountant-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "Future Accountant.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
